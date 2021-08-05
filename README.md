@@ -19,6 +19,7 @@ So you found me.
 ![](https://img.shields.io/badge/-IDA_Pro-blue)
 ![](https://img.shields.io/badge/-Debian%20GNU/Linux-ff69b4)
 ![](https://img.shields.io/badge/-GEF-green)
+![](https://img.shields.io/badge/-Taskwarrior-yellow)
 
 ## Recent Publications ✍️
 
