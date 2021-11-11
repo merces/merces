@@ -1,9 +1,10 @@
 ## Hello, stranger! 👋
 
-So you found me.
+So, you found me.
 
-- 🔭 I’m currently working as a threat researcher with [Trend Micro](https://github.com/trendmicro).
-- 🌱 I’m  learning more about ELF binaries reversing.
+- 🔭 I’ve spent the past 9 yeas working as a threat researcher in [Trend Micro](https://github.com/trendmicro).
+- 💚 I run a non-profit organization called [Mente Binária](https://menteb.in/) to educate people in computing.
+- 🌱 I’m learning more about ELF binaries reversing.
 - ⚡ Fun fact: I [play guitar](https://youtu.be/JJDUlFCpzIA).
 
 ## Things I love
@@ -19,7 +20,6 @@ So you found me.
 ![](https://img.shields.io/badge/-IDA_Pro-blue)
 ![](https://img.shields.io/badge/-Debian%20GNU/Linux-ff69b4)
 ![](https://img.shields.io/badge/-GEF-green)
-![](https://img.shields.io/badge/-Taskwarrior-yellow)
 
 ## Recent Publications ✍️
 
