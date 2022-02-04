@@ -23,6 +23,7 @@ So, you found me.
 
 ## Recent Publications ✍️
 
+- [Defending NAS Devices Against Evolving Threats](https://www.trendmicro.com/vinfo/us/security/news/internet-of-things/reinforcing-nas-security-against-pivoting-threats)
 - [Modern Ransomware's Double Extortion Tactics and How to Protect Enterprises Against Them](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/modern-ransomwares-double-extortion-tactics-and-how-to-protect-enterprises-against-them)
 - [VirusTotal Now Supports Trend Micro ELF Hash](https://www.trendmicro.com/pt_br/research/20/j/virustotal-now-supports-trend-micro-elf-hash.html)
 - [Grouping Linux IoT Malware Samples With Trend Micro ELF Hash](https://www.trendmicro.com/en_us/research/20/d/grouping-linux-iot-malware-samples-with-trend-micro-elf-hash.html)
