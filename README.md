@@ -2,7 +2,7 @@
 
 So, you found me.
 
-- 🔭 I’ve spent the past 9 yeas working as a threat researcher in [Trend Micro](https://github.com/trendmicro).
+- 🔭 I’ve spent the past 9 years working as a threat researcher in [Trend Micro](https://github.com/trendmicro).
 - 💚 I run a non-profit organization called [Mente Binária](https://menteb.in/) to educate people in computing.
 - 🌱 I’m learning more about ELF binaries reversing.
 - ⚡ Fun fact: I [play guitar](https://youtu.be/JJDUlFCpzIA).
