@@ -4,7 +4,6 @@ So, you found me.
 
 - 🔭 I’ve spent the past 9 years working as a threat researcher in [Trend Micro](https://github.com/trendmicro).
 - 💚 I run a non-profit organization called [Mente Binária](https://menteb.in/) to educate people in computing.
-- 🌱 I’m learning more about ELF binaries reversing.
 - ⚡ Fun fact: I [play guitar](https://youtu.be/JJDUlFCpzIA).
 
 ## Things I love
@@ -23,6 +22,7 @@ So, you found me.
 
 ## Recent Publications ✍️
 
+- [DeimosC2: What SOC Analysts and Incident Responders Need to Know About This C&C Framework](https://www.trendmicro.com/en_us/research/22/k/deimosc2-what-soc-analysts-and-incident-responders-need-to-know.html)
 - [Defending NAS Devices Against Evolving Threats](https://www.trendmicro.com/vinfo/us/security/news/internet-of-things/reinforcing-nas-security-against-pivoting-threats)
 - [Modern Ransomware's Double Extortion Tactics and How to Protect Enterprises Against Them](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/modern-ransomwares-double-extortion-tactics-and-how-to-protect-enterprises-against-them)
 - [VirusTotal Now Supports Trend Micro ELF Hash](https://www.trendmicro.com/pt_br/research/20/j/virustotal-now-supports-trend-micro-elf-hash.html)
