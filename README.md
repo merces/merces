@@ -22,6 +22,7 @@ So, you found me.
 
 ## Recent Publications ✍️
 
+- [Void Rabisu’s Use of RomCom Backdoor Shows a Growing Shift in Threat Actors’ Goals](https://www.trendmicro.com/en_us/research/23/e/void-rabisu-s-use-of-romcom-backdoor-shows-a-growing-shift-in-th.html)
 - [DeimosC2: What SOC Analysts and Incident Responders Need to Know About This C&C Framework](https://www.trendmicro.com/en_us/research/22/k/deimosc2-what-soc-analysts-and-incident-responders-need-to-know.html)
 - [Defending NAS Devices Against Evolving Threats](https://www.trendmicro.com/vinfo/us/security/news/internet-of-things/reinforcing-nas-security-against-pivoting-threats)
 - [Modern Ransomware's Double Extortion Tactics and How to Protect Enterprises Against Them](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/modern-ransomwares-double-extortion-tactics-and-how-to-protect-enterprises-against-them)
