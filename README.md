@@ -21,7 +21,8 @@ So, you found me.
 ![](https://img.shields.io/badge/-GEF-green)
 
 ## Recent Publications ✍️
-
+- [How BPF-Enabled Malware Works: Bracing for Emerging Threats](https://www.trendmicro.com/vinfo/us/security/news/threat-landscape/how-bpf-enabled-malware-works-bracing-for-emerging-threats)
+- [Void Rabisu Targets Female Political Leaders with New Slimmed-Down ROMCOM Variant](https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html)
 - [Detecting BPFDoor Backdoor Variants Abusing BPF Filters](https://www.trendmicro.com/en_us/research/23/g/detecting-bpfdoor-backdoor-variants-abusing-bpf-filters.html)
 - [Void Rabisu’s Use of RomCom Backdoor Shows a Growing Shift in Threat Actors’ Goals](https://www.trendmicro.com/en_us/research/23/e/void-rabisu-s-use-of-romcom-backdoor-shows-a-growing-shift-in-th.html)
 - [DeimosC2: What SOC Analysts and Incident Responders Need to Know About This C&C Framework](https://www.trendmicro.com/en_us/research/22/k/deimosc2-what-soc-analysts-and-incident-responders-need-to-know.html)
