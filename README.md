@@ -2,9 +2,8 @@
 
 So, you found me.
 
-- 🔭 I’ve spent the past 10 years working as a threat researcher in [Trend Micro](https://github.com/trendmicro).
+- 🔭 I’ve spent the past 12 years working as a threat researcher in [Trend Micro](https://github.com/trendmicro).
 - 💚 I run a non-profit organization called [Mente Binária](https://menteb.in/) to educate people in computing.
-- ⚡ Fun fact: I [play guitar](https://youtu.be/JJDUlFCpzIA).
 
 ## Things I love
 
@@ -20,7 +19,13 @@ So, you found me.
 ![](https://img.shields.io/badge/-Debian%20GNU/Linux-ff69b4)
 ![](https://img.shields.io/badge/-GEF-green)
 
+## Projects I started
+- [readpe](https://github.com/mentebinaria/readpe)
+- [telfhash](https://github.com/trendmicro/telfhash)
+- [retoolkit](https://github.com/mentebinaria/retoolkit)
+
 ## Recent Publications ✍️
+- [BPFDoor’s Hidden Controller Used Against Asia, Middle East Targets](https://www.trendmicro.com/en_us/research/25/d/bpfdoor-hidden-controller.html)
 - [How BPF-Enabled Malware Works: Bracing for Emerging Threats](https://www.trendmicro.com/vinfo/us/security/news/threat-landscape/how-bpf-enabled-malware-works-bracing-for-emerging-threats)
 - [Void Rabisu Targets Female Political Leaders with New Slimmed-Down ROMCOM Variant](https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html)
 - [Detecting BPFDoor Backdoor Variants Abusing BPF Filters](https://www.trendmicro.com/en_us/research/23/g/detecting-bpfdoor-backdoor-variants-abusing-bpf-filters.html)
