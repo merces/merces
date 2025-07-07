@@ -2,7 +2,8 @@
 
 So, you found me.
 
-- 🔭 I’ve spent the past 12 years working as a threat researcher in [Trend Micro](https://github.com/trendmicro).
+- 🚀 I currently work as a security research at [BINARLY](https://github.com/binarly-io).
+- 🔭 I’ve spent nearly 13 years working as a threat researcher in [Trend Micro](https://github.com/trendmicro).
 - 💚 I run a non-profit organization called [Mente Binária](https://menteb.in/) to educate people in computing.
 
 ## Things I love
