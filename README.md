@@ -3,29 +3,35 @@
 So, you found me.
 
 - 🚀 I currently work as a security researcher at [Binarly](https://github.com/binarly-io).
-- 🔭 I’ve spent nearly 13 years working as a threat researcher in [Trend Micro](https://github.com/trendmicro).
-- 💚 I run a non-profit organization called [Mente Binária](https://menteb.in/) to educate people in computing.
+- 💚 I run a non-profit organization called [Mente Binária](https://menteb.in/). We help people learn about foundational computing and security.
 
-## Things I love
+## Stuff I like
 
-![](https://img.shields.io/badge/-GDB-9cf)
-![](https://img.shields.io/badge/-x64dbg-lightgrey)
-![](https://img.shields.io/badge/-YARA-green)
+![](https://img.shields.io/badge/-C-gray)
+![](https://img.shields.io/badge/-Debian%20GNU/Linux-ff69b4)
 ![](https://img.shields.io/badge/-Detect_It_Easy-yellow)
+![](https://img.shields.io/badge/-GDB-9cf)
+![](https://img.shields.io/badge/-GEF-green)
 ![](https://img.shields.io/badge/-Hiew-blueviolet)
+![](https://img.shields.io/badge/-IDA_Pro-blue)
 ![](https://img.shields.io/badge/-Low_Level_Programming-green)
 ![](https://img.shields.io/badge/-OS_Internals-red)
-![](https://img.shields.io/badge/-C-gray)
-![](https://img.shields.io/badge/-IDA_Pro-blue)
-![](https://img.shields.io/badge/-Debian%20GNU/Linux-ff69b4)
-![](https://img.shields.io/badge/-GEF-green)
+![](https://img.shields.io/badge/-Rust-orange)
+![](https://img.shields.io/badge/-x64dbg-lightgrey)
+![](https://img.shields.io/badge/-YARA-green)
 
 ## Projects I started
-- [readpe](https://github.com/mentebinaria/readpe)
-- [telfhash](https://github.com/trendmicro/telfhash)
-- [retoolkit](https://github.com/mentebinaria/retoolkit)
 
-## Publications ✍️
+- [readpe](https://github.com/mentebinaria/readpe)
+- [retoolkit](https://github.com/mentebinaria/retoolkit)
+- [telfhash](https://github.com/trendmicro/telfhash)
+
+## Book I wrote/maintain
+
+- [Fundamentos de Engenharia Reversa](https://menteb.in/livro) (Portuguese).
+
+## Articles I wrote
+
 - [BPFDoor’s Hidden Controller Used Against Asia, Middle East Targets](https://www.trendmicro.com/en_us/research/25/d/bpfdoor-hidden-controller.html)
 - [How BPF-Enabled Malware Works: Bracing for Emerging Threats](https://www.trendmicro.com/vinfo/us/security/news/threat-landscape/how-bpf-enabled-malware-works-bracing-for-emerging-threats)
 - [Void Rabisu Targets Female Political Leaders with New Slimmed-Down ROMCOM Variant](https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html)
