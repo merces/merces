@@ -26,11 +26,17 @@ So, you found me.
 - [retoolkit](https://github.com/mentebinaria/retoolkit)
 - [telfhash](https://github.com/trendmicro/telfhash)
 
-## Book I wrote/maintain
+## Book I wrote
 
-- [Fundamentos de Engenharia Reversa](https://menteb.in/livro) (Portuguese).
+- [Fundamentos de Engenharia Reversa](https://menteb.in/livro) (Reverse Engineering) 🇧🇷
 
-## Articles I wrote
+## Courses I created
+
+- [Curso de Engenharia Reversa Online](https://menteb.in/cero) (Reverse Engineering) 🇧🇷
+- [Programação Moderna em C](https://menteb.in/c) (C Programming) 🇧🇷
+- [Análise de Malware Online](https://menteb.in/amo) (Malware Analysis) 🇧🇷
+
+## Articles I published
 
 - [BPFDoor’s Hidden Controller Used Against Asia, Middle East Targets](https://www.trendmicro.com/en_us/research/25/d/bpfdoor-hidden-controller.html)
 - [How BPF-Enabled Malware Works: Bracing for Emerging Threats](https://www.trendmicro.com/vinfo/us/security/news/threat-landscape/how-bpf-enabled-malware-works-bracing-for-emerging-threats)
