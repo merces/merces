@@ -25,6 +25,7 @@ So, you found me.
 - [readpe](https://github.com/mentebinaria/readpe)
 - [retoolkit](https://github.com/mentebinaria/retoolkit)
 - [telfhash](https://github.com/trendmicro/telfhash)
+- [dz6](https://github.com/mentebinaria/dz6)
 
 ## Book I wrote
 
