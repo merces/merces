@@ -22,10 +22,10 @@ So, you found me.
 
 ## Projects I started
 
-- [readpe](https://github.com/mentebinaria/readpe)
+- [dz6](https://github.com/mentebinaria/dz6)
 - [retoolkit](https://github.com/mentebinaria/retoolkit)
 - [telfhash](https://github.com/trendmicro/telfhash)
-- [dz6](https://github.com/mentebinaria/dz6)
+- [readpe](https://github.com/mentebinaria/readpe)
 
 ## Book I wrote
 
@@ -49,12 +49,3 @@ So, you found me.
 - [VirusTotal Now Supports Trend Micro ELF Hash](https://www.trendmicro.com/pt_br/research/20/j/virustotal-now-supports-trend-micro-elf-hash.html)
 - [Grouping Linux IoT Malware Samples With Trend Micro ELF Hash](https://www.trendmicro.com/en_us/research/20/d/grouping-linux-iot-malware-samples-with-trend-micro-elf-hash.html)
 - [VPNFilter Two Years Later: Routers Still Compromised](https://www.trendmicro.com/en_us/research/21/a/vpnfilter-two-years-later-routers-still-compromised-.html)
-
-********
-  
-<details>
-  <summary>📊 Github Stats</summary>
-
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=merces&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
-
-</details>
