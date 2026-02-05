@@ -3,7 +3,7 @@
 So, you found me.
 
 - 🚀 I currently work as a security researcher at [Binarly](https://github.com/binarly-io).
-- 💚 I run a non-profit organization called [Mente Binária](https://menteb.in/). We help people learn about foundational computing and security.
+- 💚 I founded a non-profit organization called [Mente Binária](https://menteb.in/). We help people learn about foundational computing and security.
 
 ## Stuff I like
 
@@ -39,6 +39,7 @@ So, you found me.
 
 ## Articles I published
 
+- [VulHunt in practice: detecting a remote code execution vulnerability in Rsync](https://www.binarly.io/blog/vulhunt-in-practice-detecting-a-remote-code-execution-vulnerability-in-rsync)
 - [BPFDoor’s Hidden Controller Used Against Asia, Middle East Targets](https://www.trendmicro.com/en_us/research/25/d/bpfdoor-hidden-controller.html)
 - [How BPF-Enabled Malware Works: Bracing for Emerging Threats](https://www.trendmicro.com/vinfo/us/security/news/threat-landscape/how-bpf-enabled-malware-works-bracing-for-emerging-threats)
 - [Void Rabisu Targets Female Political Leaders with New Slimmed-Down ROMCOM Variant](https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html)
